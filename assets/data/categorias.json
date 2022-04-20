@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "categorias": [{
+    "categorias_list": [{
             "cat_id": 1,
             "nombre": "Full Day",
             "descrip": "Text \"comillas\"",
