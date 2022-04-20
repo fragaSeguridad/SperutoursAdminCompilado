@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "categorias": [{
+            "cat_id": 1,
+            "nombre": "Full Day",
+            "descrip": "Text \"comillas\"",
+            "color": 1
+        }, {
+            "cat_id": 2,
+            "nombre": "TOUR DE VARIOS DÍAS",
+            "descrip": "partcipante's",
+            "color": null
+        }
+
+    ]
+}

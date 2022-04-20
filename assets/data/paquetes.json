@@ -1,0 +1,14 @@
+{
+    "result": "success",
+    "paquetes": [{
+        "paquete_id": "P000001",
+        "nombre": "PUNO TOTAL Lorem ipsum dolor sit amet consectetur adipisicing.",
+        "descripcion": "",
+        "cat": 1,
+        "estado": 1,
+        "fecha_inicio": "",
+        "fecha_fin": "",
+        "disponibilidad": ""
+    }]
+
+}
